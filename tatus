@@ -1,0 +1,158 @@
+[33mcommit 9e581f415f8c6cc97106960a7b37a24062a30115[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Swetha302 <nallabolus7@northwood.edu>
+Date:   Tue Feb 18 19:08:51 2025 -0500
+
+    file upload
+
+[33mcommit f4412a22885f4b5a022b5793ef7f0805cd1562b7[m
+Merge: fc047d1 5152037
+Author: Swetha302 <nallabolus7@northwood.edu>
+Date:   Tue Feb 18 18:21:55 2025 -0500
+
+    file upload
+
+[33mcommit fc047d1d04073b1fd5643a0d5a35ce43d8becc16[m
+Author: Swetha302 <nallabolus7@northwood.edu>
+Date:   Tue Feb 18 18:14:07 2025 -0500
+
+    Add s3_file_code.py to repository
+
+[33mcommit 51520379b58866aea58aced054ff2a12cd7313d7[m
+Author: Swetha302 <150290016+Swetha302@users.noreply.github.com>
+Date:   Tue Feb 18 18:05:08 2025 -0500
+
+    Create README.md
+
+[33mcommit 0ef7a974edbb19eda8d8490be91409fd2e868fc9[m
+Author: Swetha302 <nallabolus7@northwood.edu>
+Date:   Tue Feb 18 17:49:10 2025 -0500
+
+    file upload
+
+[33mcommit b6833fa9e11f5ddb1fda48865f121dadc5085c4e[m
+Merge: b398080 80d4269
+Author: Swetha302 <nallabolus7@northwood.edu>
+Date:   Tue Feb 18 17:19:57 2025 -0500
+
+    file upload
+
+[33mcommit b398080cc13f6a2102b27edf8fbdb854eca3d6be[m
+Author: Swetha302 <nallabolus7@northwood.edu>
+Date:   Tue Feb 18 16:48:20 2025 -0500
+
+    Refactor S3 bucket listing script to remove hardcoded credentials
+
+[33mcommit f67c8af82934701a8f862106e529e76a5f000000[m
+Merge: 2458736 4c56809
+Author: Swetha302 <nallabolus7@northwood.edu>
+Date:   Tue Feb 18 15:39:46 2025 -0500
+
+    Resolved merge conflict in README.md
+
+[33mcommit 245873654e0e7e9f851179ed37ed6bb750570188[m
+Author: Swetha302 <nallabolus7@northwood.edu>
+Date:   Tue Feb 18 15:23:29 2025 -0500
+
+    Your commit message here
+
+[33mcommit 812a60c0c0ce7d1a5a0c12cf926f1ab52acc4375[m
+Author: Swetha302 <nallabolus7@northwood.edu>
+Date:   Tue Feb 18 14:15:11 2025 -0500
+
+    add to git please
+
+[33mcommit 80d426902fc9050d07dbe6cbb820f9bfce9a9698[m
+Author: Swetha302 <nallabolus7@northwood.edu>
+Date:   Tue Feb 18 03:09:58 2025 -0500
+
+    file uploaded
+
+[33mcommit 6b7e6a766073428cbef2984ef9e20921736d35a4[m
+Author: Swetha302 <150290016+Swetha302@users.noreply.github.com>
+Date:   Tue Feb 18 01:18:23 2025 -0500
+
+    Initial commit
+
+[33mcommit 4c56809e2596bf822d1548368ac1b0aa60f3764a[m
+Author: Swetha302 <150290016+Swetha302@users.noreply.github.com>
+Date:   Tue Feb 18 01:11:34 2025 -0500
+
+    Update README.md
+
+[33mcommit 8e89ec14966172819a7fd10c7eb4130989a7d7d9[m
+Author: Swetha302 <150290016+Swetha302@users.noreply.github.com>
+Date:   Mon Feb 17 17:49:57 2025 -0500
+
+    Update README.md
+
+[33mcommit 8220e23ea65ad8a3acd2c7025ebc2f8dc7897aba[m
+Author: Swetha302 <150290016+Swetha302@users.noreply.github.com>
+Date:   Mon Feb 17 17:45:51 2025 -0500
+
+    Add files via upload
+
+[33mcommit 3bffce6b7e7932be265f5d6d7fdee93112840e3b[m
+Author: Swetha302 <150290016+Swetha302@users.noreply.github.com>
+Date:   Mon Feb 17 17:39:12 2025 -0500
+
+    Add files via upload
+
+[33mcommit b545fac127647c4b13125f15ace960db745e2885[m
+Author: Swetha302 <150290016+Swetha302@users.noreply.github.com>
+Date:   Mon Feb 17 17:37:16 2025 -0500
+
+    Create README.md
+
+[33mcommit acc17cb99847b0bc558a8d74b5ebe6fe10d1498c[m
+Author: Swetha302 <150290016+Swetha302@users.noreply.github.com>
+Date:   Mon Feb 17 17:31:47 2025 -0500
+
+    Delete Introduction to AWS S3.docx
+
+[33mcommit 3f26e95a5d9a50cc76411ba9687dd1fc235cd0df[m
+Author: Swetha302 <150290016+Swetha302@users.noreply.github.com>
+Date:   Mon Feb 17 17:31:31 2025 -0500
+
+    Delete README.md
+
+[33mcommit 9b3683739c8411c55c7443452fd39d4242b59f0f[m
+Author: Swetha302 <150290016+Swetha302@users.noreply.github.com>
+Date:   Mon Feb 17 15:53:47 2025 -0500
+
+    Add files via upload
+
+[33mcommit 2023914099975c5930cc58689775c9d3d2795fec[m
+Author: Swetha302 <150290016+Swetha302@users.noreply.github.com>
+Date:   Fri Feb 14 02:22:59 2025 -0500
+
+    Update studentInfo.csv
+
+[33mcommit ee646edb5fa6f680632d6737e71f09e059f8d2a6[m
+Author: Swetha302 <150290016+Swetha302@users.noreply.github.com>
+Date:   Fri Feb 14 02:22:15 2025 -0500
+
+    Update studentInfo.csv
+
+[33mcommit 952ba636494db6677c8995a75a79253bb9421746[m
+Author: Swetha302 <150290016+Swetha302@users.noreply.github.com>
+Date:   Fri Feb 14 02:21:08 2025 -0500
+
+    Update studentInfo.csv
+
+[33mcommit 442d25fff0d81b38c88c48f05db2879a4860e710[m
+Author: Swetha302 <150290016+Swetha302@users.noreply.github.com>
+Date:   Fri Feb 14 02:18:54 2025 -0500
+
+    Add files via upload
+
+[33mcommit d76c94723b78c2aad527dc61afd352175936ca38[m
+Author: Swetha302 <150290016+Swetha302@users.noreply.github.com>
+Date:   Fri Feb 14 02:14:13 2025 -0500
+
+    Add files via upload
+
+[33mcommit da263db4833cf52f548dd921814877842c54418b[m
+Author: Swetha302 <150290016+Swetha302@users.noreply.github.com>
+Date:   Fri Feb 14 02:10:19 2025 -0500
+
+    Initial commit
